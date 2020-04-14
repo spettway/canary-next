@@ -53,9 +53,6 @@ const Header = ({ }) => {
 
   return (
     <Main id="header">
-      {/* <Head>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVxR0VNRPVYy-BvZur9dq0moF9fqkiYfs&libraries=places"></script>
-      </Head> */}
       <Row>
         <Col {...{ xs: 24, sm: 24, md: 4, lg: 4, xl: 3, xxl: 2 }}>
           <h1><Link href="/"><a id="main-logo">canary</a></Link></h1>
