@@ -7,12 +7,28 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^4.1.1",
+    "emotion": "^10.0.27",
+    "emotion-server": "^10.0.27",
     "firebase": "7.11.0",
+    "fuse.js": "^5.1.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
     "next": "latest",
+    "nprogress": "^0.2.0",
+    "randomcolor": "^0.5.4",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "react-dom": "^16.13.0",
+    "react-responsive": "^8.0.3",
+    "react-spring": "^8.0.27"
   },
   "devDependencies": {
-    "dotenv": "8.2.0"
+    "@types/node": "^13.11.0",
+    "@types/react": "^16.9.32",
+    "dotenv": "8.2.0",
+    "typescript": "^3.8.3"
   }
 }
